@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Javascript / Data Structures, Modern Operators and Strings
 - 📈 I’m looking for an internship opportunity
 - 📫 You can reach me at justyna.jancis@gmail.com and on +37064582108
+- 📁 Resume: https://jjancis.github.io/CV/
 
 <!---
 JJancis/JJancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
